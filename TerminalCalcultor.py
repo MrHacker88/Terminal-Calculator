@@ -10,8 +10,7 @@ Divide = Num1 / Num2
 Remainder = Num1 % Num2
 Exponent = Num1 ** Num2
 
-#printing strings to inform user about operations
-that are available
+#printing strings to inform user about operations that are available
 print("Operation Availabe Are As Follows:-")
 print("1.Addition")
 print("2.Subtration")
